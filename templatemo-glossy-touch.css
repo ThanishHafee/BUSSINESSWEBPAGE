@@ -50,10 +50,10 @@ body {
 .shape:nth-child(1) {
     width: 120px;
     height: 80px;
-    border-radius: 15px;
+    border-radius: 90px;
     top: 20%;
     left: 10%;
-    animation-delay: 0s;
+    animation-delay: 2s;
     transform: rotate(15deg);
 }
 .shape:nth-child(2) {
@@ -727,4 +727,5 @@ button[type="submit"] {
     .logo {
         font-size: 22px;
     }
+
 }
